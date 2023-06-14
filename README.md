@@ -6,13 +6,16 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sharifsgit&label=Profile%20views&color=0e75b6&style=flat" alt="sharifsgit" /> </p> 
 
 <h3>👩‍💻  About Me </h3>
+<p> <a href="https://github.com/SHARIFsGIT/github-readme-streak-stats"> <img align="right" width="350"  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shariful's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SHARIFsGIT&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a> </p>
+
 
 - 🔭 I’m currently working on [RoboKudo](https://robokudo.ai.uni-bremen.de/) 
 - 🌱 I’m currently learning **EVERYTHING**
 - 💬 Ask me about **ROS, MERN, Typescript** 
 - 📫 How to reach me **mdsharif@uni-bremen.de** 
 
-<h3 align="left">Languages and Tools:</h3> 
+<h3 align="left">Languages and Tools:</h3>
+<p> <img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=SHARIFsGIT&theme=dracula&hide_border=false&include_all_commits=false&count_private=true"/> </p>
 
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
@@ -46,6 +49,9 @@
 </p> 
 
 <h3> 📺 Latest YouTube Videos </h3>
+<p> <img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHARIFsGIT&hide=html,css,php,javascript,scss&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
+</p>
+
 <!-- YOUTUBE:START --> 
 
 <!-- YOUTUBE:END --> 
@@ -58,11 +64,3 @@
   <a href="https://www.hackerrank.com/sharifaiub15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sharifaiub15" height="30" width="40" /></a> 
   <a href="https://codeforces.com/profile/sharifaiub15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sharifaiub15" height="30" width="40" /></a> 
   <a href="https://www.leetcode.com/sharifsgit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sharifsgit" height="30" width="40" /></a> </p> 
-  
-  
-<p> <a href="https://github.com/SHARIFsGIT/github-readme-streak-stats"> <img align="left" width="290"  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shariful's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SHARIFsGIT&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" style="max-width: 100%;"/></a> </p>
-
-<p> <img align="left" width="264" src="https://github-readme-stats.vercel.app/api?username=SHARIFsGIT&theme=dracula&hide_border=false&include_all_commits=false&count_private=true" style="max-width: 100%; !padding-right: 0px;"/> </p>
-
-<p> <img align="right" width="243" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHARIFsGIT&hide=html,css,php,javascript,scss&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact" style="max-width: 100%; !padding-left: 0px;"/>
-</p>
