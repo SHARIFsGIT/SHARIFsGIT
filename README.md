@@ -60,9 +60,9 @@
   <a href="https://www.leetcode.com/sharifsgit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sharifsgit" height="30" width="40" /></a> </p> 
   
   
-<p> <a href="https://github.com/SHARIFsGIT/github-readme-streak-stats"> <img align="left" width="310"  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shariful's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SHARIFsGIT&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a> </p>
+<p> <a href="https://github.com/SHARIFsGIT/github-readme-streak-stats"> <img align="left" width="290"  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shariful's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SHARIFsGIT&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" style="max-width: 100%;"/></a> </p>
 
-<p> <img align="left" width="310" src="https://github-readme-stats.vercel.app/api?username=SHARIFsGIT&theme=dracula&hide_border=false&include_all_commits=false&count_private=true"/> </p>
+<p> <img align="left" width="264" src="https://github-readme-stats.vercel.app/api?username=SHARIFsGIT&theme=dracula&hide_border=false&include_all_commits=false&count_private=true" style="max-width: 100%;padding-right: 0px;"/> </p>
 
-<p> <img align="left" width="310" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHARIFsGIT&hide=html,css,php,javascript,scss&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
+<p> <img align="right" width="243" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHARIFsGIT&hide=html,css,php,javascript,scss&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact" style="max-width: 100%;padding-left: 0px;"/>
 </p>
