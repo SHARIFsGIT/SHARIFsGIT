@@ -64,5 +64,5 @@
 
 <p> <img align="left" width="264" src="https://github-readme-stats.vercel.app/api?username=SHARIFsGIT&theme=dracula&hide_border=false&include_all_commits=false&count_private=true" style="max-width: 100%;padding-right: 0px;"/> </p>
 
-<p> <img align="right" width="243" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHARIFsGIT&hide=html,css,php,javascript,scss&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact" style="max-width: 100%;padding-left: 0px;"/>
+<p> <img align="right" width="243" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHARIFsGIT&hide=html,css,php,javascript,scss&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact" style="max-width: 100%; !padding-left: 0px;"/>
 </p>
