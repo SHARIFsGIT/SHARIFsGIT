@@ -9,7 +9,7 @@
 <p> <a href="https://github.com/SHARIFsGIT/github-readme-streak-stats"> <img align="right" width="350"  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shariful's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SHARIFsGIT&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a> </p>
 
 
-- 🔭 I’m currently working on [RoboKudo](https://robokudo.ai.uni-bremen.de/) 
+- 🔭 I’m currently **free to work for your company** 
 - 🌱 I’m currently learning **EVERYTHING**
 - 💬 Ask me about **ROS, MERN, Typescript** 
 - 📫 How to reach me **mdsharif@uni-bremen.de** 
