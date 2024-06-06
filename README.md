@@ -13,39 +13,9 @@
 - 🌱 I’m learning **EVERYTHING**
 
 
-<div style="text-align: center;"> 
-  <a href="mailto:sharifaiub15@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/im-shariful-islam" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="im-shariful-islam" height="30" width="40" />
-  </a> 
-  <a href="https://fb.com/enggsharif" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="enggsharif" height="30" width="40" />
-  </a> 
-  <a href="https://instagram.com/shariful_islam_1994" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shariful_islam_1994" height="30" width="40" />
-  </a> 
-  <a href="https://www.youtube.com/c/uc4bpzhe2yy87sbyvt_0wa4q" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc4bpzhe2yy87sbyvt_0wa4q" height="30" width="40" />
-  </a> 
-  <a href="https://www.hackerrank.com/sharifaiub15" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sharifaiub15" height="30" width="40" />
-  </a> 
-  <a href="https://codeforces.com/profile/sharifaiub15" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sharifaiub15" height="30" width="40" />
-  </a> 
-  <a href="https://www.leetcode.com/sharifsgit" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sharifsgit" height="30" width="40" />
-  </a> 
-</div>
-
-
-
 <h3 align="center">⚒️ Languages-Frameworks-Tools </h3>
 <p> <img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=SHARIFsGIT&theme=dracula&hide_border=false&include_all_commits=false&count_private=true"/> </p>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=arduino,autocad,aws,bootstrap,c,cpp,css,discord,django,docker,fastapi,figma,firebase,github,gitlab,heroku,html,js,linux" />
-    <img src="https://skillicons.dev/icons?i=materialui,matlab,mongodb,mysql,netlify,nextjs,nodejs,opencv,postgres,postman,pycharm,py,react,redux,ros,sass,ts,ubuntu,vite" /><br>
+    <img src="https://skillicons.dev/icons?i=arduino,autocad,aws,bootstrap,c,cpp,css,discord,django,docker,fastapi,figma,firebase,github,gitlab,heroku,html,js,linux,materialui,matlab,mongodb,mysql,netlify,nextjs,nodejs,opencv,postgres,postman,pycharm,py,react,redux,ros,sass,ts,ubuntu,vite" />
 </div>
