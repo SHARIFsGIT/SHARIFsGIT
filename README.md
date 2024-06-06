@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+programmer!;+I+am+Shariful+Islam!;A+passionate+developer;I+am+currently+free+to+work" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+programmer;+I+am+Shariful+Islam;A+passionate+developer;Currently+free+to+work" />
 </h1>
 
 <p align="center"> 
@@ -29,7 +29,7 @@
 <h3 align="center">Connect with me</h3>
 <div align="center">
     <div margin="10">
-        <a href="https://linkedin.com/in/https://linkedin.com/in/im-shariful-islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/im-shariful-islam" height="30" width="40" /></a>
+        <a href="https://linkedin.com/in/im-shariful-islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/im-shariful-islam" height="30" width="40" /></a>
     <a href="https://fb.com/https://fb.com/enggsharif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://fb.com/enggsharif" height="30" width="40" /></a>
     <a href="https://instagram.com/shariful_islam_1994" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shariful_islam_1994" height="30" width="40" /></a>
     </div>
