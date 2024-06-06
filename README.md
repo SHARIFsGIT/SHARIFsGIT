@@ -16,5 +16,5 @@
 <div align="center">
     <div> <a href="https://github.com/SHARIFsGIT/github-readme-streak-stats"> <img align="center" width="auto" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shariful's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SHARIFsGIT&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a> </div>
 <br>
-<div> <img align="center" width="auto" src="https://github-readme-stats.vercel.app/api?username=SHARIFsGIT&theme=dracula&hide_border=false&include_all_commits=false&count_private=true"/> </div>
+<div> ![SHARIFsGIT github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=SHARIFsGIT) </div>
 </div>
