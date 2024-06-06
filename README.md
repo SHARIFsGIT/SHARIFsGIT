@@ -13,7 +13,7 @@
 </div>
 
 
-<div> <a href="https://github.com/SHARIFsGIT/github-readme-streak-stats"> <img align="center" width="auto" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shariful's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SHARIFsGIT&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a> </div>
+<div align="center"> <a href="https://github.com/SHARIFsGIT/github-readme-streak-stats"> <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shariful's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SHARIFsGIT&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a> </div>
 <br>
     
 ![SHARIFsGIT github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=SHARIFsGIT)
