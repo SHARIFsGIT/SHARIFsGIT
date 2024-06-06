@@ -12,7 +12,7 @@
 
 
 <h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️ </h3>
-<div align="center" padding="10px">
+<div align="center">
     <img src="https://skillicons.dev/icons?i=arduino,autocad,aws,bootstrap,c,cpp,css,discord,django,docker" />
     <img src="https://skillicons.dev/icons?i=fastapi,figma,firebase,github,gitlab,heroku,html,js,linux,materialui,matlab,mongodb,mysql,netlify" />
     <img src="https://skillicons.dev/icons?i=nextjs,nodejs,opencv,postgres,postman,pycharm,py,react,redux,ros,sass,ts,ubuntu,vite" />
@@ -25,14 +25,14 @@
 
 
 <h3 align="center">Connect with me</h3>
-<div align="center" padding="10px">
+<div align="center">
 <a href="https://linkedin.com/in/https://linkedin.com/in/im-shariful-islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/im-shariful-islam" height="30" width="40" /></a>
 <a href="https://fb.com/https://fb.com/enggsharif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://fb.com/enggsharif" height="30" width="40" /></a>
 <a href="https://instagram.com/shariful_islam_1994" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shariful_islam_1994" height="30" width="40" /></a>
-<br>
+<br padding="20">
 <a href="https://www.hackerrank.com/sharifaiub15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sharifaiub15" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/sharifaiub15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sharifaiub15" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sharifsgit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sharifsgit" height="30" width="40" /></a>
-<br>
+<br padding="20">
 <a href="https://www.youtube.com/c/engineersdiary1052" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="engineersdiary1052" height="30" width="40" /></a>
 </div>
