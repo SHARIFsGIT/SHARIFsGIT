@@ -13,6 +13,8 @@
 </div>
 
 
-<p> <a href="https://github.com/SHARIFsGIT/github-readme-streak-stats"> <img align="left" width="500" height="500" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shariful's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SHARIFsGIT&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a> </p>
+<div display="flex">
+    <p> <a href="https://github.com/SHARIFsGIT/github-readme-streak-stats"> <img align="left" width="auto" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shariful's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SHARIFsGIT&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a> </p>
 
-<p> <img align="right" width="500" height="500" src="https://github-readme-stats.vercel.app/api?username=SHARIFsGIT&theme=dracula&hide_border=false&include_all_commits=false&count_private=true"/> </p>
+<p> <img align="right" width="auto" src="https://github-readme-stats.vercel.app/api?username=SHARIFsGIT&theme=dracula&hide_border=false&include_all_commits=false&count_private=true"/> </p>
+</div>
