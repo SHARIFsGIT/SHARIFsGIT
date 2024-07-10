@@ -22,10 +22,14 @@
 
 ![SHARIFsGIT github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=SHARIFsGIT)
 
-![LeetCode Stats](https://leetcode.card.workers.dev/SHARIFsGIT?theme=auto&font=source_code_pro&extension=activity)
-
 <div align="center"> <a href="https://github.com/SHARIFsGIT/github-readme-streak-stats"> <img width="600" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shariful's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SHARIFsGIT&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a> </div>
 <br>
+
+<div align="center"><a href="https://leetcode.card.workers.dev/SHARIFsGIT?theme=auto&font=source_code_pro&extension=activity"><img width="400" src="https://leetcode.card.workers.dev/SHARIFsGIT?theme=auto&font=source_code_pro&extension=activity"/></a></div>
+
+<br>
+
+<div align="center"><a href="https://codeforces-readme-stats.vercel.app/api/card?username=sharifaiub15&theme=dark&disable_animations=false&show_icons=true&force_username=false"><img width="400" src="https://codeforces-readme-stats.vercel.app/api/card?username=sharifaiub15&theme=dark&disable_animations=false&show_icons=true&force_username=false"/></a></div>
 
 
 <h3 align="center">Connect with me</h3>
