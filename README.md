@@ -29,9 +29,6 @@
 
 <br>
 
-<div align="center"><a href="https://codeforces-readme-stats.vercel.app/api/card?username=sharifaiub15&theme=dark&disable_animations=false&show_icons=true&force_username=false"><img width="400" src="https://codeforces-readme-stats.vercel.app/api/card?username=sharifaiub15&theme=dark&disable_animations=false&show_icons=true&force_username=false"/></a></div>
-
-
 <h3 align="center">Connect with me</h3>
 <div align="center">
     <div margin="10">
